@@ -22,6 +22,8 @@ Below will contain a list of Features that have been added to core applications 
 
 ### Sals Shipping App
 
+This application takes in 
+
 
 # Tests
 Currently all test will use the Pytest framework to test (unit testing).  As I grow more mature with my application development this may change to a framework that leverages an orchestrator like Jenkins
