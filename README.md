@@ -1,9 +1,9 @@
 # Project Pillow-
 
-Project Pillow- contains personalized application development in python.  It is to showcase my understanding of the fundamentals of Python programming.  The structure of the project is laid out by each folder being its own application.  Some applications are original works some are not.  Each application will contain it's own README that will reference which resource I built the application from, when it was built.  Most applications are not an exact copy and will have my own interpretation this is to showcase that I understand what it is that I am building.
+Project Pillow- contains my application development in python.  Project Pillow- is how I train my fundamentals of Python programming.  Each layer of the project has a folder named for the application and a README describing the contents of the application.  Some applications are inspired by other projects and will be referenced in the README.  
 
 # Motivation
-My main motivation for seeking better coding is to "make the world a better place" (Thank you silicon valley).  There are large problems in the world that will need to be solved, and although I may not directly solve them (cancer, diseases, aging) I can enable those working on these projects through the use of ML/AI/Emergent behaviors in complex systems etc.  I take the approach of building in automation to move talented people to work on critical pieces of a problem instead of being bogged down with TOIL.
+My motivation for training my coding skills is to "make the world a better place" (Thank you silicon valley).  There are large problems in the world that will need to be solved.  I am motivated to help assist and enable those working on these projects. 
 
 # Build Status
 The build status is displayed on Github you will see the cadence of the project over time.  Edits, test etc when added.
